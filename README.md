@@ -1,8 +1,6 @@
 ### Olá!! Eu sou Tainá Morais! 👋
 
 - 🔭 Sou estudante de Desenvolvimento Web na Trybe
-- 📫 Contate-me no email: tainafms@gmail.com
-- ⚡  Meu LinkedIn: https://www.linkedin.com/in/taina-morais/
 - 😄 Pronome: Ela/Dela
 
 <div align="center">
