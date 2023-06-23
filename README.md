@@ -1,7 +1,10 @@
 ### Olá!! Eu sou Tainá Morais! 👋
 
-- 🔭 Sou estudante de Desenvolvimento Web na Trybe
-- 😄 Pronome: Ela/Dela
+Em busca de novos desafios, estou realizando transição de carreita para área de tecnologia. Já me formei em desenvolvimento Back-end e Fron-end. Atualmente, estou finalizando a formação em Desenvolvimento Web Fullstack pela escola de programação Trybe, com foco em: JavaScript, Node.js, Express, API RESTful, Sequelize, banco de dados relacioais e não relacionais (MySQL), Pyhton, React, Docker, metodologias ágeis, entre outros.
+
+Estou em busca de uma oportunidade que esteja atrelada aos meus valores e que proporcione abertura para o crescimento profissional.
+
+Eu acredito muito na tecnologia como meio de melhorar processos, facilitando a vida e o trabalho das pessoas.
 
 <div align="center">
   <a href="https://github.com/tainamorais">
